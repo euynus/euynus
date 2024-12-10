@@ -11,7 +11,7 @@ I'm currently working as a Data Analyst with a passion for programming and softw
 
 ## 🌱 Currently Learning
 - Advanced data analysis techniques
-- Machine Learning with Python
+- iOS development with Python
 
 ## 💬 Ask Me About
 - Data analysis
